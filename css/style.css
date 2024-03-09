@@ -72,3 +72,13 @@ list-style: none;
 .following{
     background-color: blueviolet;
 }
+.following-heading{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.following-link{
+    list-style: none;
+}
+.side-footer{
+    background-color:gold;
+}
