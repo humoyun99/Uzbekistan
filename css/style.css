@@ -1,0 +1,74 @@
+/* global */
+body{
+    font-family:'roboto',sans-serif;
+    font-size: 18px;
+    font-style: italic;
+   font-weight: 400;
+   line-height: normal;
+   letter-spacing: 0.5px;
+   color: black;
+   background-color: #fff;
+}
+/* headr */
+.side-ligo-img{
+    height: 50px;
+}
+.side-nov-list{
+    list-style: none;
+}
+.side-nov-list-item-link{
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+/* hero */
+.section-hero{
+    background-color: aqua;
+}
+.hero-heading{
+    font-size: 60;
+}
+.btn {
+    text-decoration: none;
+    
+}
+.btn-hero-button{
+    text-decoration: none;
+    color: white;
+}
+/* <!-- news --> */
+.news-heading,.viloyatlar-heading{
+    font-size: 32px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+.news-list{
+    list-style: none;
+}
+.news-list-itm-img{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+
+}
+/* aside */
+.aside{
+    background-color: blue;
+}
+/* viloyatlar */
+.viloyatlar-list{
+
+list-style: none;
+}
+.viloyatlar-link{
+    font-size: 24px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+/* following */
+.following{
+    background-color: blueviolet;
+}
